@@ -1,3 +1,5 @@
+> **📦 Archived reference implementation** — built 2025–2026 while running IT solo at an HR-tech SaaS. Kept as a portfolio piece; dependencies are frozen as of archiving (August 2026). More projects: [github.com/micahyee415](https://github.com/micahyee415).
+
 # gong-mcp-admin
 
 > A single-user, local (stdio) Model Context Protocol (MCP) server for the Gong API — an uncapped admin variant for one authorized operator on their own workstation.
